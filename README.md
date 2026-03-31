@@ -14,7 +14,7 @@ Sou uma profissional versátil em transição de carreira para a tecnologia. Com
 
 ### 📂 Meus Projetos em Destaque
 *(Aqui você colocará os links dos seus projetos conforme for criando)*
-- 📸 [Galeria de Fotos Responsiva]([link-do-seu-projeto-aqui](https://gessica-noronha.github.io/landing-page-estudo)
+- 📸 [Galeria de Fotos Responsiva](https://gessica-noronha.github.io/landing-page-estudo)
 - 📰 [Layout de Revista com CSS Grid](link-do-seu-projeto-aqui)
 
 ---
