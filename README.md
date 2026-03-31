@@ -12,13 +12,17 @@ Sou uma profissional versátil em transição de carreira para a tecnologia. Com
 - **Design:** Design Responsivo, Flexbox, CSS Grid
 - **Outros:** Pacote Office Avançado, Rotinas Administrativas, Gestão de Processos
 
-### 📂 Meus Projetos em Destaque
-*(Aqui você colocará os links dos seus projetos conforme for criando)*
-- 📸 [Galeria de Fotos Responsiva](https://gessica-noronha.github.io/landing-page-estudo)
-- 📰 [Layout de Revista com CSS Grid](link-do-seu-projeto-aqui)
+## 🎯 Meus Projetos em Destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| 📸 Galeria de Fotos | Grid responsivo com fotos | [Ver site](https://gessica-noronha.github.io/galeria-fotos-responsiva) |
+| 📰 Layout de Revista | CSS Grid tipo revista | [Ver site](https://gessica-noronha.github.io/layout-revista-css-grid) |
+| 🚀 Landing Page | Primeiro projeto | [Ver site](https://gessica-noronha.github.io/landing-page-estudo) |
 
 ---
 ### 📫 Vamos nos conectar?
-- [LinkedIn](SEU-LINK-DO-LINKEDIN-AQUI)
-- Email: gessica.passarelli21@gmail.com
+- [LinkedIn](www.linkedin.com/in/
+géssica-noronha
+- Email: gessica.noronhavaz@gmail.com
 # gessicanoronha
